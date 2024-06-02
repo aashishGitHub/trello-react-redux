@@ -1,0 +1,19 @@
+/* text-left w-full block */
+
+.left-block-w-full {
+  text-align: right;
+  width: 100%;
+  display: block;
+}
+
+/* fixed top-0 right-0 w-20
+.fixed-top-right-w-20 {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 5rem;
+} */
+.relative-w-full {
+  position: relative;
+  width: 100%;
+}

@@ -1,0 +1,15 @@
+.relative-w-full {
+    position: relative;
+    width: 100%;
+
+}
+.fixed {
+    position: fixed;
+    top: 5rem;
+    right: 0;
+    width: 5rem;
+}
+
+.h-96 {
+    height: 34rem;
+}

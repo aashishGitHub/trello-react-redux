@@ -1,8 +1,10 @@
 ## Summary
 
-A Trello board clone made with React + Redux saved in localstorage
+Design systems
+- /trello/ to access a Trello board clone made with React + Redux saved in localstorage
+- /stepper/ to seestepper component
 
-## Features
+## Trello Features
  - Create/delete columns
  - Create/delete cards
  - Edit card content
